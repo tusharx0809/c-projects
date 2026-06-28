@@ -1,0 +1,3 @@
+Operating Systems: Three Easy Pieces (free online)
+Computer Systems: A Programmer's Perspective (CS:APP) — especially the chapters on memory, linking, and I/O.
+Database Internals by Alex Petrov
